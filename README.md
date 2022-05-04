@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SandeshSawant19
 - 👀 I’m interested in Automation
 - 🌱 I’m currently learning IOT.
-- 💞️ I’m looking to collaborate on R&D
 - 📫 How to reach me <bass Sandesh ko yaad karo on sandeshsuhassawant56@gmail.com>
 
 <!---
