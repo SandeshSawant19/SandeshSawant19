@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SandeshSawant19
-- 👀 I’m interested in Automation
-- 🌱 I’m currently learning IOT.
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Advance AI & ML.
 - 📫 How to reach me <sandeshsuhassawant56@gmail.com>
 
 <!---
